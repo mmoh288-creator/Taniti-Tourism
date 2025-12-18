@@ -116,7 +116,7 @@ nav ul li a:hover {
 }
 
 .hero-two {
-  background-image: url('images/lush jungle.webp');
+  background-image: url('images/Lush jungle.webp');
   background-size: cover;
   background-position: center;
   height: 200px;
@@ -684,4 +684,5 @@ nav ul li a:hover {
   .info-box {
     padding: 20px;
   }
+
 }
